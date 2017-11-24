@@ -5,6 +5,7 @@
 1.jdk1.8.0_111
 2.STS(Spring Tool Suite [Version: 3.9.1.RELEASE])
 3.Spring CLI v1.5.8.RELEASE
+4.Tomcat8
 
 二.拥有的功能
 1.Spring的Test模块 和 Mock模块,测试接口是否正确.
